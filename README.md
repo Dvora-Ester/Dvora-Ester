@@ -10,8 +10,7 @@ My experience combines Python development, SQL, BI dashboards, and full-stack ap
 
 ## Professional Experience
 
-### Data Analyst & BI Developer | Israel Tax Authority
-*2026*
+### Data Analyst & BI Developer | Israel Tax Authority *2026*
 
 Working with data-driven solutions, combining software development, data analysis, and business intelligence.
 
@@ -19,10 +18,9 @@ Developing Python scripts using Pandas for data cleaning, processing, and analys
 
 Building interactive BI dashboards from scratch using Qlik Sense, including data loading, transformations, filtering, and calculations with Qlik Script. Working with multiple data sources and translating business requirements into meaningful insights and visualizations.
 
-### Software Development & Verification Intern | Ready Group
-*2025*
+### Verification Intern | Ready Group *2025*
 
-Participated in software development and verification, working with SystemVerilog and developing a hierarchical UVM Testbench.
+Developed a hierarchical UVM Testbench using Object-Oriented Programming (OOP) for verifying randomization functions and communication with the Data Scrambler, including timing with Ready/Valid Handshake-I Assertions.
 
 ---
 
